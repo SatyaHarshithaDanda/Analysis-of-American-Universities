@@ -28,7 +28,7 @@ The dataset likely includes:
 
 > Dataset was cleaned and preprocessed to handle missing or inconsistent values.
 
-## 📊 Key Analyses
+## 📊 Key Analysis
 
 - Most preferred universities overall and by region
 - Influence of cost vs. reputation
