@@ -1,4 +1,4 @@
-# 🎓 Student Preferred University Analysis
+# 🎓 American Universities Analysis by Student Preferences
 
 This project analyzes student preferences for universities based on multiple factors such as academic reputation, location, cost, and program offerings. Using Python and data visualization tools, the project identifies key trends in how students choose universities.
 
